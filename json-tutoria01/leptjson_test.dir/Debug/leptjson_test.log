@@ -1,0 +1,10 @@
+﻿生成启动时间为 2016/9/19 22:15:16。
+     1>项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial01\build\leptjson_test.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"leptjson_test.dir\Debug\\" /Fd"leptjson_test.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\test.c
+         test.c
+     1>已完成生成项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial01\build\leptjson_test.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.27
