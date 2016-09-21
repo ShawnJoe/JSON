@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/9/21 20:47:42。
+     1>项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial02\build\leptjson.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“leptjson.dir\Debug\leptjson.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial02\build\Debug\leptjson.lib" /NOLOGO leptjson.dir\Debug\leptjson.obj  /machine:X86 
+         leptjson.vcxproj -> C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial02\build\Debug\leptjson.lib
+       FinalizeBuildStatus:
+         正在删除文件“leptjson.dir\Debug\leptjson.unsuccessfulbuild”。
+         正在对“leptjson.dir\Debug\leptjson.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial02\build\leptjson.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.39
