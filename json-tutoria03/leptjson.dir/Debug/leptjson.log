@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/10/9 13:30:07。
+     1>项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial03\build\leptjson.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“leptjson.dir\Debug\leptjson.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"leptjson.dir\Debug\\" /Fd"leptjson.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\leptjson.c
+         leptjson.c
+     1>..\leptjson.c(158): error C2065: “true”: 未声明的标识符
+     1>已完成生成项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial03\build\leptjson.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.29
