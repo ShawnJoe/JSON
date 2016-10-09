@@ -1,0 +1,142 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft(R) 生成引擎版本 4.6.81.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/10/9 14:11:19。
+节点 1 上的项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\3.6.2\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdC.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CompilerIdC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\3.6.2\CompilerIdC\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\3.6.2\CompilerIdC\.\CompilerIdC.exe
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\CompilerIdC.exe;#1" /manifest Debug\CompilerIdC.exe.intermediate.manifest
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdC.unsuccessfulbuild”。
+  正在对“Debug\CompilerIdC.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\3.6.2\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.98
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_3acdd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft(R) 生成引擎版本 4.6.81.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/10/9 14:11:21。
+节点 1 上的项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\cmTC_3acdd.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_3acdd.dir\Debug\”。
+  正在创建目录“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_3acdd.dir\Debug\cmTC_3acdd.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_3acdd.dir\Debug\\" /Fd"cmTC_3acdd.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_3acdd.dir\Debug\\" /Fd"cmTC_3acdd.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_3acdd.dir\Debug\cmTC_3acdd.exe.embed.manifest.res" cmTC_3acdd.dir\Debug\cmTC_3acdd_manifest.rc 
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\Debug\cmTC_3acdd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_3acdd.dir\Debug\cmTC_3acdd.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp/Debug/cmTC_3acdd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp/Debug/cmTC_3acdd.lib" /MACHINE:X86 cmTC_3acdd.dir\Debug\cmTC_3acdd.exe.embed.manifest.res
+  cmTC_3acdd.dir\Debug\testCCompiler.obj  /machine:X86 
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTC_3acdd.dir\Debug\cmTC_3acdd.exe.embed.manifest" /manifest cmTC_3acdd.dir\Debug\cmTC_3acdd.exe.intermediate.manifest
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_3acdd.dir\Debug\cmTC_3acdd.exe.embed.manifest.res" cmTC_3acdd.dir\Debug\cmTC_3acdd_manifest.rc 
+LinkEmbedManifest:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\Debug\cmTC_3acdd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_3acdd.dir\Debug\cmTC_3acdd.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp/Debug/cmTC_3acdd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp/Debug/cmTC_3acdd.lib" /MACHINE:X86 cmTC_3acdd.dir\Debug\cmTC_3acdd.exe.embed.manifest.res
+  cmTC_3acdd.dir\Debug\testCCompiler.obj  /machine:X86 
+  cmTC_3acdd.vcxproj -> C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\Debug\cmTC_3acdd.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_3acdd.dir\Debug\cmTC_3acdd.unsuccessfulbuild”。
+  正在对“cmTC_3acdd.dir\Debug\cmTC_3acdd.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\cmTC_3acdd.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.32
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_998db.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft(R) 生成引擎版本 4.6.81.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2016/10/9 14:11:23。
+节点 1 上的项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\cmTC_998db.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_998db.dir\Debug\”。
+  正在创建目录“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_998db.dir\Debug\cmTC_998db.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_998db.dir\Debug\\" /Fd"cmTC_998db.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue "..\..\..\..\..\..\..\..\..\Program Files\CMake\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_998db.dir\Debug\\" /Fd"cmTC_998db.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue "..\..\..\..\..\..\..\..\..\Program Files\CMake\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_998db.dir\Debug\cmTC_998db.exe.embed.manifest.res" cmTC_998db.dir\Debug\cmTC_998db_manifest.rc 
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\Debug\cmTC_998db.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_998db.dir\Debug\cmTC_998db.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp/Debug/cmTC_998db.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp/Debug/cmTC_998db.lib" /MACHINE:X86 cmTC_998db.dir\Debug\cmTC_998db.exe.embed.manifest.res
+  cmTC_998db.dir\Debug\CMakeCCompilerABI.obj  /machine:X86 
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"cmTC_998db.dir\Debug\cmTC_998db.exe.embed.manifest" /manifest cmTC_998db.dir\Debug\cmTC_998db.exe.intermediate.manifest
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_998db.dir\Debug\cmTC_998db.exe.embed.manifest.res" cmTC_998db.dir\Debug\cmTC_998db_manifest.rc 
+LinkEmbedManifest:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\Debug\cmTC_998db.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_998db.dir\Debug\cmTC_998db.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp/Debug/cmTC_998db.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Administrator/Desktop/json-tutorial-master/json-tutorial-master/tutorial04/build/CMakeFiles/CMakeTmp/Debug/cmTC_998db.lib" /MACHINE:X86 cmTC_998db.dir\Debug\cmTC_998db.exe.embed.manifest.res
+  cmTC_998db.dir\Debug\CMakeCCompilerABI.obj  /machine:X86 
+  cmTC_998db.vcxproj -> C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\Debug\cmTC_998db.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_998db.dir\Debug\cmTC_998db.unsuccessfulbuild”。
+  正在对“cmTC_998db.dir\Debug\cmTC_998db.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\Administrator\Desktop\json-tutorial-master\json-tutorial-master\tutorial04\build\CMakeFiles\CMakeTmp\cmTC_998db.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.01
+
+
